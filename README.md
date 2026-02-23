@@ -18,7 +18,7 @@ This project predicts heart disease risk using Machine Learning.
 - Model trained on medical dataset
 
 ## 📂 GitHub Link
-https://github.com/yourusername/project-name
+https://github.com/G-gift-1224/Heart_Disease
 
 ## 🎯 How to Run
 pip install -r requirements.txt  
